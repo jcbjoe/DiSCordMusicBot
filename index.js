@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const ytdl = require('ytdl-core');
 
-client.login('Njk4OTUzODYxOTc2Njg2NzM0.XpNVmQ.mXA6Gzvo2ctF103ymJ9iccVO7-8');
+client.login('TOKEN');
 
 let stream = null;
 
